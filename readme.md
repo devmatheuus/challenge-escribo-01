@@ -1,6 +1,6 @@
-# MARVEL COMICS
+# ESCRIBO
 
-_DESAFIO TÉCNICO 1 - **ESCRIBO**!!!_
+_DESAFIO TÉCNICO 1!!!_
 
 Ao desenvolver esta função, minha principal ênfase foi priorizar a legibilidade e usabilidade. Adotei boas práticas para nomeação de variáveis e implementei manipulação de erros, garantindo que a função entregasse o melhor resultado possível.
 
